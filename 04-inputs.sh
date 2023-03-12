@@ -8,5 +8,5 @@ echo Script Name $0 # Script Name
 echo All Arguments = $*
 echo All Arguments = $@ # All Arguments
 
-echo Numner of Arguments = $# # Number of Arguments
+echo Number of Arguments = $# # Number of Arguments
 
