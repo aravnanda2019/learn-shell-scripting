@@ -29,5 +29,4 @@ elif [ "${name}" == "AWS" ]; then
      echo Traing are at 7 AM
 else
   echo No Course Available
-
 fi
