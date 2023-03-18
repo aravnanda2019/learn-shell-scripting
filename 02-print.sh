@@ -18,7 +18,7 @@ echo Hello World
 
 echo -e "\e[31mHello in Red Color\e[0m"
 echo  Hello World
-echo -e "\e[32mKantamani in Yellow Color\e[0m"
+echo -e "\e[32mKantamani in Green Color\e[0m"
 
 # Sometimes we need to print multiple lines
 echo -e "line1\nline2\nline3"
