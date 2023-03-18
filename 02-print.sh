@@ -14,5 +14,14 @@ echo Hello World
 
 # \e[0m -> Zero Code is going to reset the color, Meaning if we enable color for sure we need to disable it, otherwise the color will continue on screen
 # We can use double or single quotes, However double quotes are prefered.
+
+
 echo -e "\e[31mHello in Red Color\e[0m"
 echo  Hello World
+
+
+# Sometimes we need to print multiple lines
+echo -e "line1\nline2\nline3"
+
+## \e for color; same \n for new line 
+
