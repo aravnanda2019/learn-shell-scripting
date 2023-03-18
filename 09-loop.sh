@@ -1,0 +1,8 @@
+# loop based on expression
+i=20
+while [ $i -gt 0 ]; then
+  echo $i
+  i=$(($i-1))
+done 
+
+## Loop based on inputs
