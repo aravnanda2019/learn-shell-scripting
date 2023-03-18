@@ -3,3 +3,5 @@
 read -p 'Enter Your Name: ' name
 
 echo "your Name = $name"
+
+## Read command will fail for automation because manual intervention is required
